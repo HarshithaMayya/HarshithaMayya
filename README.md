@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HarshithaMayya
-- 👀 I’m interested in Cyber Security and Networking along with Coding with Python and Java.
-- 🌱 I’m currently pursuing my graduation in Computer Science and Engineering. 
-- 💞️ I’m looking to collaborate on Cyber Security and realted fields.
-- 📫 One can reach me at my linkedin or mail:
+- 👀 I’m interested in Cyber Security, cryptography, and Networking.
+- 🌱 I’m currently pursuing my post-graduation in Computer Networking and Engineering. 
+- 💞️ I’m looking to collaborate on cybersecurity and related fields.
+- 📫 One can reach me at my LinkedIn or mail:
 linkedin: www.linkedin.com/in/harshitha-mayya-664b92187
 Mail Id: harshithamayya001@gmail.com
 
